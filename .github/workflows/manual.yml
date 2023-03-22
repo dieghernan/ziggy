@@ -18,4 +18,4 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: cff-validator
-        uses: dieghernan/cff-validator@v2.3
+        uses: dieghernan/cff-validator@main
